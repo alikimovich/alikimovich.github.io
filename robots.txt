@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Sitemap: http://alikimovich.github.io/sitemap.xml
+Host: alikimovich.github.io
